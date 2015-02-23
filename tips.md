@@ -49,3 +49,11 @@
 - シテカせ
 
 - ピタン
+
+
+# meetup
+- [meetup.com](http://www.meetup.com/cities/fr/paris/)
+
+- [Paris New Tech](http://www.meetup.com/Paris-New-Tech/): often in English
+
+- [paris ruby](https://github.com/parisrb/how_tos/blob/master/paris_food_n_drinks.md)
