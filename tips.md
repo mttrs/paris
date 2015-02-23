@@ -43,6 +43,12 @@
 
 - [Mojito Habana](http://www.tripadvisor.jp/Attraction_Review-g187147-d607356-Reviews-Mojito_Habana-Paris_Ile_de_France.html)
 
+- [Bossetti](http://www.caves-bossetti.fr/index.aspx)
+
+- [Kusmi Tea](https://www.google.co.jp/maps/place/Kusmi+Tea+-+Rosiers/@48.8578575,2.3576853,19z/data=!4m2!3m1!1s0x0000000000000000:0x87bbb28cd9248027)
+
+- [Au Fût et à Mesure](https://www.google.com/maps/place/Au+F%C3%BBt+et+%C3%A0+Mesure/@48.870817,2.349709,18z/data=!4m7!1m4!3m3!1s0x47e66e1697b4b125:0xfe48fa8af5ff574e!2zQXUgRsO7dCBldCDDoCBNZXN1cmU!3b1!3m1!1s0x47e66e1697b4b125:0xfe48fa8af5ff574e?hl=en)
+
 ## Young French
 ### Greeting
 - サファート: こんにちは
@@ -58,3 +64,9 @@
 - [Paris New Tech](http://www.meetup.com/Paris-New-Tech/): often in English
 
 - [paris ruby](https://github.com/parisrb/how_tos/blob/master/paris_food_n_drinks.md)
+
+## Others
+- MONOPRIX
+- franprix
+- BHV: Similar to Tokyu Hands
+- HEMA: Daily goods
