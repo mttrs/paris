@@ -1,5 +1,6 @@
 # Paris information
 
+## Restaurant
 ### Galette
 - [La droguere](http://www.tripadvisor.fr/Restaurant_Review-g187147-d2303907-Reviews-La_Droguerie-Paris_Ile_de_France.html)
 
@@ -42,8 +43,8 @@
 
 - [Mojito Habana](http://www.tripadvisor.jp/Attraction_Review-g187147-d607356-Reviews-Mojito_Habana-Paris_Ile_de_France.html)
 
-# Young French
-## Greeting
+## Young French
+### Greeting
 - サファート: こんにちは
 
 - シテカせ
@@ -51,7 +52,7 @@
 - ピタン
 
 
-# meetup
+## meetup
 - [meetup.com](http://www.meetup.com/cities/fr/paris/)
 
 - [Paris New Tech](http://www.meetup.com/Paris-New-Tech/): often in English
