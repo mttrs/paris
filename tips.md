@@ -65,6 +65,9 @@
 
 - [paris ruby](https://github.com/parisrb/how_tos/blob/master/paris_food_n_drinks.md)
 
+## Concert
+- [sunset sunside](http://www.sunset-sunside.com/)
+
 ## Others
 - MONOPRIX
 - franprix
