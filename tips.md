@@ -51,12 +51,10 @@
 
 ## Young French
 ### Greeting
-- サファート: こんにちは
-
+- サファート: Hello
 - シテカせ
-
 - ピタン
-
+- je vous en prie: you're welcome
 
 ## meetup
 - [meetup.com](http://www.meetup.com/cities/fr/paris/)
