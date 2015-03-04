@@ -73,3 +73,4 @@
 - franprix
 - BHV: Similar to Tokyu Hands
 - HEMA: Daily goods
+- [pre-paid sim](http://www.joemobile.fr/home)
