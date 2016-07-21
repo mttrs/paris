@@ -73,6 +73,9 @@
 ## Running
 - [Paris running trails](http://www.mapmyrun.com/fr/paris-ile-de-france/)
 
+## Pull-up
+- [Best parks with pull up bars](http://www.yelp.com/search?find_desc=Parks+With+Pull+Up+Bars&find_loc=Paris)
+
 ## Others
 - MONOPRIX
 - franprix
