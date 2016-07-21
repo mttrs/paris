@@ -70,6 +70,9 @@
 ## Concert
 - [sunset sunside](http://www.sunset-sunside.com/)
 
+## Running
+- [Paris running trails](http://www.mapmyrun.com/fr/paris-ile-de-france/)
+
 ## Others
 - MONOPRIX
 - franprix
